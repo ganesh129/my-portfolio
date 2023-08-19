@@ -1,5 +1,4 @@
 import Emojigit from "../images/Emojigit.PNG";
-import HuluClone from "../images/HuluClone.PNG";
 import KryptPreview from "../images/KryptPreview.jpg";
 import DevBlogsPreview from "../images/DevBlogsPreview.PNG";
 import CloudSpacePreview from "../images/CloudSpacePreview1.png";
