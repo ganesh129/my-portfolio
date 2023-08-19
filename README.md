@@ -1,5 +1,5 @@
 # My Portfolio
 
 - Built using ReactJS and Tailwind CSS
-https://raw.githubusercontent.com/ganesh129/my-portfolio/master/.github/images/LastMealPreview.png
+![PortfolioPreview](https://github.com/ganesh129/my-portfolio/assets/44805359/6863ac7e-068d-41f3-a19d-9417bbcb6f30)
 
