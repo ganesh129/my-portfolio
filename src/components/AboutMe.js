@@ -29,8 +29,8 @@ function AboutMe() {
               Ganesh Kumar
             </span>
             <span className="mt-2 text-sm text-gray-300 leading-relaxed">
-              I am fromBihar.Currently working as a Software
-              Engineer at Tata consultancy Services. I have around 3 years of experience. I
+              I am currently working as a Software
+              Engineer at Tata consultancy Services. I have around 3 years of experience and
               have expertise in frontend technologies. I
               believe in hard work and
               learning new stuff every day.
